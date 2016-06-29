@@ -24,6 +24,7 @@
 
 .slick-slider .slick-track {
     opacity: 0;
+    background: #fff;
 }
 
 .slick-slider {
@@ -1799,6 +1800,7 @@
 
     .jsonProducts .productElement {
         padding: 0px;
+        margin-top:  0.9375rem;
         margin-bottom: 0.9375rem;
         text-align: center;
     }
